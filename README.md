@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mariosilva22007457&show_icons=true&theme=merko" width="400">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosilva22007457&layout=compact)](https://github.com/mariosilva22007457/github-readme-stats)
